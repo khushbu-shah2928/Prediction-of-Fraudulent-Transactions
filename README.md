@@ -10,3 +10,8 @@ Machine Learning Algorithms Used:
 5) Support Vector Machine
 6) Logistic Regression
 
+Best Accuracy Scores -- Random Forest had the highest accuracy among tested models.
+
+Random Forest Score: 99.95897916267198
+XGBoost Score : 99.95766942967938
+
